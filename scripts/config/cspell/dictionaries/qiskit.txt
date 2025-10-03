@@ -401,9 +401,12 @@ photoresistor
 photoresistors
 pdfs
 pdf
-Magnetizations
+eigenphase
+qctrlvisualizer
+TFIM
 magnetizations
 correlators
+circs
 TFIM
 qctrlvisualizer
 markersize
